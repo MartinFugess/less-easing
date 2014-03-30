@@ -1,0 +1,26 @@
+{
+	"name": "less-easing",
+	"version": "1.0.0",
+	"homepage": "https://github.com/MartinFugess/less-easing",
+	"authors": [
+		"Martin[cze] Fugess"
+	],
+	"description": "small library easing effects",
+	"repository": {
+	"type": "git",
+	"url": "git://github.com/MartinFugess/less-easing.git"
+	},
+	"keywords": [
+		"easing",
+		"less",
+		"ease",
+		"less ease",
+		"less easing",
+		"transition",
+		"css3"
+	],
+	"license": "MIT",
+	"ignore": [
+		"README.md"
+	]
+}
