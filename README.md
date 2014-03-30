@@ -1,11 +1,10 @@
 # less easing variables
 
-## small library easing effects
+#### small library easing effects
 
-### Using
-
-Very simple:
-```element {
+####Using:
+```css
+element {
     ...
     -webkit-transition: property duration @easing delay;
     -moz-transition: property duration @easing delay;
@@ -13,14 +12,14 @@ Very simple:
     -o-transition: property duration @easing delay;
     transition: property duration @easing delay;
     ...
-}```
+}
+```
 
-
-# Author
+**Author**
 
 Martin Fugess
 
 
-# License
+**License**
 
 The MIT License (MIT)
