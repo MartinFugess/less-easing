@@ -1,8 +1,8 @@
 # less easing variables
 
-#### small library easing effects
+### small library easing effects
 
-####Using:
+#### Using:
 ```css
 element {
     ...
@@ -15,11 +15,9 @@ element {
 }
 ```
 
-**Author**
 
+**Author**
 Martin Fugess
 
-
 **License**
-
 The MIT License (MIT)
